@@ -10,13 +10,13 @@ spring:
           google:
             client-id: 205933403006-bpor9k9eoo211pelg8surprgo11jevt8.apps.googleusercontent.com
             client-secret: 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
-            redirect-uri: https://kffa9824affd9a.user-app.krampoline.com/login/oauth2/code/google
+            redirect-uri: https://kefd7143c6c21a.user-app.krampoline.com/login/oauth2/code/google
             scope:
               - email
               - profile
           kakao:
             client-id: aad9fffaff5b6655b991487c5ff8b445
-            redirect-uri: https://kffa9824affd9a.user-app.krampoline.com/login/oauth2/code/kakao
+            redirect-uri: https://kefd7143c6c21a.user-app.krampoline.com/login/oauth2/code/kakao
             client-authentication-method: client_secret_post
             authorization-grant-type: authorization_code
             scope:
